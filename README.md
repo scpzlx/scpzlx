@@ -81,7 +81,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=scpzlx)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=scpzlx&theme=dracula&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 

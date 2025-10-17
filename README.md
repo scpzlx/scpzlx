@@ -81,7 +81,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=scpzlx&theme=dracula&hide_border=false)](https://git.io/streak-stats)
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=scpzlx&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

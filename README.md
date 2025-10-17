@@ -111,7 +111,7 @@
 
 ---
 
-<h4 align="center">🡇 Aquí puedes ver algunos de los proyectos en los que estoy trabajando 🡇</h4>
+<h4 align="center">⬇️ Aquí puedes ver algunos de los proyectos en los que estoy trabajando ⬇️</h4>
 
 ---
 

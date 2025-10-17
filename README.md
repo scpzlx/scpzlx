@@ -76,7 +76,7 @@
 
 ---
 
-## 📊 Estadísticas de mi perfil
+### 📊 Estadísticas de mi perfil
 
 <div align="center">
 
@@ -107,7 +107,7 @@
 
 ---
 
-## 📬 Contáctame
+### 📬 Contáctame
 
 <div align="center">
 <a href="mailto:sergiodev.isof@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Correo%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

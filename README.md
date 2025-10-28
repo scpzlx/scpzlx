@@ -23,7 +23,7 @@
 
 ## Sobre mí
 
-- 👨‍💻 Soy estudiante de **Ingeniería en Software**, con enfoque en el **desarrollo web y de software**.  
+- 👨‍💻 Soy estudiante de **Ingeniería en Software**, con enfoque en el **desarrollo web y de **.  
 - 💬 Me gusta aprender nuevas tecnologías y crear proyectos que fortalezcan mis habilidades.  
 - 🌱 Actualmente practico **HTML**, **CSS**, **JavaScript**, **Python**, **C#** y **bases de datos SQL**.
 - 🎯 Busco perfeccionar mis habilidades continuamente y crecer como desarrollador de software.

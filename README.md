@@ -70,7 +70,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SCPZLX)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=scpzlx)](https://git.io/streak-stats)
 
 </div>
 
